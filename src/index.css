@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.custom-width {
+  width: 320px; /* Ajusta el ancho según tus necesidades */
+}
+
+.custom-height {
+  height: 300px; /* Ajusta la altura según tus necesidades */
+}
